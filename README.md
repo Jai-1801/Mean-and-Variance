@@ -75,8 +75,9 @@ print("The Variance of arrival from feeder is %.3f "%var)
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
 
 
+
 # Output : 
-![ex1](https://github.com/Jai-1801/Mean-and-Variance/assets/139335300/5964bc7e-2919-4bfa-b714-8b6e82b0831f)
+
 
 
 # Results :
