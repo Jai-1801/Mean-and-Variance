@@ -1,6 +1,6 @@
 #  Mean and variance of a discrete  distribution
-### Developed By : S Mohamed Ahsan
-### Reg. No. : 212223240089
+### Developed By : JAI SURYA R
+### Reg. No. : 212223230084
 
 ## Aim : 
 
