@@ -1,7 +1,6 @@
 #  Mean and variance of a discrete  distribution
-### Developed By : S Mohamed Ahsan
-### Reg. No. : 212223240089
-
+### Developed By : JAI SURYA R
+### Reg. No. : 212223230084
 ## Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
@@ -78,7 +77,7 @@ print("The Standard deviation of arrival from feeder is %.3F "%SD)
 
 ```
 ## Output : 
-![ex1](https://github.com/MOHAMEDAHSAN/Mean-and-Variance/assets/139331378/e557d768-de03-4b09-a563-6aacc0a16ed3)
+![EX 1 ](https://github.com/MOHAMEDAHSAN/Mean-and-Variance/assets/139335300/2d706ddf-330d-4852-b66f-d8a36b8f1283)
 
 ## Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
